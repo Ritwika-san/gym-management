@@ -1,3 +1,5 @@
+# Gym Membership Management
+
 A simple Gym Member Management Web App built using Django - to keep a track of all Equipment, Plans, Enquires and members
 
 ## What it does
@@ -52,4 +54,3 @@ Version Control: Git & GitHub
    python manage.py runserver
 ```
 (Inspired by existing open-source implementations, extended and customized with additional features and improvement)
-
